@@ -1,0 +1,1 @@
+{ "name": "multicash-frontend", "scripts": { "dev": "next dev" }, "dependencies": {} }
